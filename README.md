@@ -4,6 +4,8 @@ _If user makes any change, attempt to undo the change back to appscript's last c
 
 Hardcoaded to accept registration only on sunday 3PM
 
+ ![Screenshot](ss.png)
+
 ### Usage:
 - run flask app.
 - keep flask's ip:port in code.js and install it on a google spreadsheet
